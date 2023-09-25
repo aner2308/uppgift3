@@ -13,5 +13,9 @@ Uppgiften består av flera komponenter;
 
 ### REDOVISNING:
 
+För att klona min repository till din dator så kan du göra som följer:
 
+1. Gå in på min Github-profil
+2. Tryck på fliken repositories och välj den du vill ta del av
+ 
 

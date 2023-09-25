@@ -11,11 +11,3 @@ Uppgiften består av flera komponenter;
 3. Skapa en **README.md-fil** *(denna)* och beskriv uppgiften. 
 4. Redovisning av git kommandon för att klona min repository till din lokala dator. *se svar nedan*
 
-### REDOVISNING:
-
-För att klona min repository till din dator så kan du göra som följer:
-
-1. Gå in på min Github-profil
-2. Tryck på fliken repositories och välj den du vill ta del av
- 
-
